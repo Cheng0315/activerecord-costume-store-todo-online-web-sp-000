@@ -1,3 +1,3 @@
-class CostumeStore <ActiveRecord::Base
+class CostumeStore < ActiveRecord::Base
 
 end
